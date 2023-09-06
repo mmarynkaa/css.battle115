@@ -1,0 +1,47 @@
+body{
+    background: #6592CF;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 0px;
+    position: relative;
+  }
+  .a1 {
+    position: absolute;
+    background: #060F55;
+    width: 30px;
+    height: 255px;
+    right: 120px;
+    top: 60px;
+    border-radius: 50px;
+  }
+  .a2 {
+    position: absolute;
+    background: #060F55;
+    width: 30px;
+    height: 255px;
+    left: 120px;
+    top: 60px;
+    border-radius: 50px;
+  }
+  .b1{
+    position: absolute;
+    background:#060F55;
+    width: 110px;
+    height: 30px;
+    top: 120px;
+  }
+  .b2{
+    position: absolute;
+    background:#060F55;
+    width: 110px;
+    height: 30px;
+    top: 180px;
+  }
+  .b3{
+    position: absolute;
+    background:#060F55;
+    width: 110px;
+    height: 30px;
+    top: 240px;
+  }
